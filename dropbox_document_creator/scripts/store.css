@@ -1,0 +1,132 @@
+.imagelogo_li_remove {
+list-style-type: none;
+margin: 0;
+ padding: 0;
+}
+
+.imagelogo_data{
+ width:120px;
+ height:80px;
+}
+  .navbar {
+    letter-spacing: 1px;
+    font-size: 14px;
+    border-radius: 0;
+    margin-bottom: 0;
+   background-color:#008080;
+
+    z-index: 9999;
+    border: 0;
+    font-family: comic sans ms;
+//color:white;
+  }
+
+
+.navbar-toggle {
+background-color:orange;
+  }
+
+.navgate {
+padding:16px;color:white;
+
+}
+
+.navgate:hover{
+ color: black;
+ background-color: orange;
+
+}
+
+
+.navbar-header{
+height:60px;
+}
+
+.navbar-header-collapse-color {
+background:white;
+}
+
+.dropdown_bgcolor{
+
+background: #008080;
+color:white;
+}
+
+.dropdown_dashedline{
+ border-bottom: 2px dotted white;
+}
+
+.navgate101:hover{
+background:#008080;
+color:white;
+
+}
+
+
+
+.invite_btnx{
+background-color:#008080;
+padding: 6px;
+color:white;
+font-size:14px;
+//border-radius: 50%;
+border: none;
+cursor: pointer;
+text-align: center;
+}
+.invite_btnx:hover {
+background: orange;
+color:black;
+}
+
+
+
+
+.creator_imagelogo_data{
+ width:60px;
+ height:60px;
+}
+
+/* make modal appear at center of the page */
+.modal-appear-center {
+margin-top: 25%;
+//width:40%;
+}
+
+
+/* make modal appear at center of the page */
+.modal-appear-center1 {
+margin-top: 15%;
+//width:40%;
+}
+
+
+.modal_head_color{
+background-color: #008080;
+padding: 6px;
+color:white;
+}
+
+
+.modal_footer_color{
+background-color: #008080;
+padding: 6px;
+color:white;
+}
+
+
+.modal-dialog{
+   
+   margin-top: 110px;
+} 
+
+
+.dangerx{
+background:red;color:white;padding:10px;border:none;
+}
+
+
+.successx{
+background:green;color:white;padding:10px;border:none;
+}
+	
